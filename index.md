@@ -10,7 +10,11 @@ Mathematician
 </div>
 
 ## Contact Information
+
+### Email
 clyun at mis dot mpg dot de
+
+### Mailing Address
 - F3 07, MPI MiS
 - Inselstraße 22
 - 04103 Leipzig
@@ -102,7 +106,6 @@ Teaching assistant. Math 90: Calculus I.
 Teaching assistant. Math 100: Calculus II.
 
 ### Smith College
-
 `Fall 2016 - Spring 2017`
 General math tutor. Pre-calculus to multivariable calculus and linear algebra.
 
