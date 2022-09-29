@@ -18,7 +18,7 @@ __Max-Planck-Institut für Mathematik in den Naturwissenschaften, Leipzig, Germa
 
 ## Research Interests
 
-Combinatorial algebraic geometry and topology, computational algebraic geometry, tropical geometry, combinatorics. One of my favorite scenarios is when a nice group, e.g., $S_n$ or $GL_n$, acts on a combinatorially defined space and thus gives the (co)homology of the space the structure of group representations.
+Combinatorial algebraic geometry and topology, computational algebraic geometry, tropical geometry, combinatorics. One of my favorite things to study is the equvariant (co)homology of a combinatorially-defined space.
 
 ## Education
 
