@@ -15,7 +15,7 @@ Mathematician
 clyun at mis dot mpg dot de
 
 ### Mailing Address
-- F3 07, MPI MiS
+F3 07, MPI MiS
 - Inselstraße 22
 - 04103 Leipzig
 - Germany
@@ -290,7 +290,7 @@ Puzzling and Apuzzling Graphs
 ## Skills
 
 ### Languages
-- English: fluent in speaking, reading, and writing
+English: fluent in speaking, reading, and writing
 - Chinese (Native): fluent in speaking, reading, and writing
 
 <!-- ### Footer
