@@ -1,13 +1,13 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Claudia He Yun's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Claudia He Yun
+Mathematician, postdoc at MPI MiS
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="clyun@mis.mpg.de">clyun@mis.mpg.de</a>
+| <a href="http://claudiayun.com">My website</a>
 </div>
 
 
