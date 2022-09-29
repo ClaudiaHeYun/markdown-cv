@@ -47,25 +47,25 @@ __Budapest Semesters in Mathematics, Budapest, Hungary__
 
 ## Publications
 
-1. *Discrete Morse theory for symmetric Delta-complexes*
+*Discrete Morse theory for symmetric Delta-complexes*
 - Preprint.
 
-2. *Equivariant Hodge polynomials of heavy/light moduli spaces*
+*Equivariant Hodge polynomials of heavy/light moduli spaces*
 - with Siddarth Kannan and Stefano Serpente
 - Submitted.
 
-3. *Homology representations of compactified configurations on graphs applied to $\mathcal{M}_{2,n}$*
+*Homology representations of compactified configurations on graphs applied to $\mathcal{M}_{2,n}$*
 - with Christin Bibby, Melody Chan, and Nir Gadish
 - submitted
 
-4. *Topology of tropical moduli spaces of weighted curves in high genus*
+*Topology of tropical moduli spaces of weighted curves in high genus*
 - with Siddarth Kannan, Shiyue Li, and Stefano Serpente
 - To appear in **Advances in Geometry**.
 
-5. *The $S_n$-equivariant rational homology of the tropical moduli spacse $\Delta_{2,n}$*
+*The $S_n$-equivariant rational homology of the tropical moduli spacse $\Delta_{2,n}$*
 - Experimental Mathematics (2021): 1-13.
 
-6. *Puzzling and Apuzzling Graphs*
+*Puzzling and Apuzzling Graphs*
 - with D. Gold, J. Henle, C. Huang, T. Lyve, T. Marin, J. Osorio, M. Puligandla, B. Weick, J. Xia, and J. Zhang
 - AKCE International Journal of Graphs and Combinatorics, vol. 13, no. 1 (2016): 1-10.
 
@@ -113,6 +113,186 @@ Instructor. One-week introduction to Java programming.
 General physics tutor. Introductory physics courses.
 
 ## Talks
+
+`September 2022`
+Discrete Morse theory for symmetric Delta-complexes
+- SFB TRR 195 Anuual Meeting
+- Blaubeuren, Germany
+
+`August 2022`
+Homology representations of compactified configurations on graphs
+- Nonlinear Algebrac Seminar
+- Leipzig, Germany
+
+`March 2022`
+Homology representations of compactified configurations on graphs
+- AMS special session
+- online
+
+`November 2021`
+Homology representations of compactified configurations on graphs
+- Tulane University
+
+`November 2021`
+Homology representations of compactified configurations on graphs
+- Algebra Seminar
+- Georgia Institute of Technology
+
+`November 2021`
+Homology representations of compactified configurations on graphs
+- Combinatorics Seminar
+- University of Michigan
+
+`October 2021`
+Homology representations of compactified configurations on graphs
+- Algebra and Algebraic Geometry Seminar
+- University of Washington 
+
+`October 2021`
+Homology representations of compactified configurations on graphs
+- Algebraic Geometry Northeastern Series (AGNES)
+- online 
+
+`October 2021`
+Homology representations of compactified configurations on graphs
+- Graduate Online Combinatorics Colloquium
+- online 
+
+`July 2021`
+The $S_n$-equivariant rational homology of the tropical moduli spaces $\Delta_{2,n}$
+- Discrete Mathematics/Geometry seminar at TU Berlin
+- online
+
+`April 2021`
+MathzFeed: 5 things I learned in representation theory that are so incredible I almost didn't believe them
+- Graduate Student Seminar
+- Brown University 
+
+`Mar 2021`
+The $S_n$-equivariant rational homology of the tropical moduli spaces $\Delta_{2,n}$
+- AMS Spring Eastern
+- online 
+
+`Mar 2021`
+The $S_n$-equivariant rational homology of the tropical moduli spaces $\Delta_{2,n}$
+- Tropical Geometry in Zoom (TGiZ)
+- online 
+
+`Mar 2021`
+The $S_n$-equivariant rational homology of the tropical moduli spaces $\Delta_{2,n}$
+- Philadelphia Area Combinatorics and Alg. Geometry Seminar (CAGE)
+- online 
+
+`Mar 2021`
+The $S_n$-equivariant rational homology of the tropical moduli spaces $\Delta_{2,n}$
+- Grad/Postdoc Seminar
+- ICERM 
+
+`Feb 2021`
+The $S_n$-equivariant rational homology of the tropical moduli spaces $\Delta_{2,n}$
+- American Graduate Student Algebraic Geometry Seminar (AGSAGS)
+- online 
+
+`Dec 2020`
+The $S_n$-equivariant homology of the tropical moduli spaces $\Delta_{2,n}$
+- Latin American Geometria Algebraica Real y TrOpical Seminar (LAGARTOS)
+- online 
+
+`Oct 2020`
+The book of sand: intro to spectral sequences
+- Graduate Student Seminar
+- Brown University 
+
+`May 2020`
+Rational homology of the tropical moduli spaces $\Delta_{2,n}$ as $S_n$-representations
+- Marvelous Algebraic Geometry Unraveled by Students (MAGUS)
+- online 
+
+`Mar 2020`
+$S_n$-equivariant homology of the tropical moduli space $\Delta_{2,n}$
+- Combinatorics Seminar
+- Brown University 
+
+`Feb 2020`
+$S_n$-equivariant homology of the tropical moduli space $\Delta_{2,n}$
+- Graduate Student Seminar
+- Brown University 
+
+`Oct 2019`
+What is representation stability?
+- Graduate Student Seminar
+- Brown University 
+
+`Apr 2018`
+Tree representation of $S_{n+1}$
+- Graduate Student Seminar
+- Brown University 
+
+`Oct 2018`
+Introduction to Schubert Calculus
+- Graduate Student Seminar
+- Brown University 
+
+`Apr 2017`
+Poster: Splines on Lattices
+- Celebrating Collaborations
+- Smith College 
+
+`Apr 2017`
+Splines on Lattices
+- 24th Hudson River Undergraduate Mathematics Conference (HRUMC)
+- Westfield State University 
+
+`Jan 2017`
+An Introduction to Splines
+- the Joint Math Meetings
+- Atlanta, GA 
+
+`Dec 2016`
+Splines on Cycles and Infinite Graphs
+- Math Lunch Talk
+- Smith College 
+
+`Sep 2016`
+Basis of Splines on the $A_n$ Root Lattice
+- Women in Mathematics in New England (WIMIN)
+- Smith College 
+
+`Jul 2016`
+Basis of Splines on the An Root Lattice
+- Williams REU conference
+- Williams College 
+
+`Jul 2016`
+Poster:vNumber of Positive Root in a Subspace of the $A_n$ lattice
+- Summer Combo in Vermont
+- St Michael's College 
+
+`Apr 2016`
+Generalized Splines on Cycles and Infinite Graphs
+- Math Lunch Talk
+- Smith College 
+
+`Apr 2016`
+Generalized splines on cycles and infinite graphs
+- 23nd Hudson River Undergraduate Mathematics Conference (HRUMC)
+- St Michael's College 
+
+`Sep 2014`
+Puzzling and Apuzzling Graphs
+- Women in Mathematics in New England (WIMIN)
+- Smith College 
+
+`Apr 2014`
+Puzzling and Apuzzling Graphs
+- 21st Hudson River Undergraduate Mathematics Conference (HRUMC)
+- Skidmore College 
+
+`Mar 2014`
+Puzzling and Apuzzling Graphs
+- 5th Annual AEMES Research Symposium
+- Smith College
+ 
 
 ## Outreach
 
