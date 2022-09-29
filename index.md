@@ -11,10 +11,10 @@ Mathematician
 </div>
 
 ## Contact Information
-F3 07, MPI MiS
-Inselstraße 22
-04103 Leipzig
-Germany
+- F3 07, MPI MiS
+- Inselstraße 22
+- 04103 Leipzig
+- Germany
 
 ## Employment
 
@@ -48,26 +48,26 @@ __Budapest Semesters in Mathematics, Budapest, Hungary__
 ## Publications
 
 1. *Discrete Morse theory for symmetric Delta-complexes*
-Preprint.
+- Preprint.
 
 2. *Equivariant Hodge polynomials of heavy/light moduli spaces*
-with Siddarth Kannan and Stefano Serpente
-Submitted.
+- with Siddarth Kannan and Stefano Serpente
+- Submitted.
 
 3. *Homology representations of compactified configurations on graphs applied to $\mathcal{M}_{2,n}$*
-with Christin Bibby, Melody Chan, and Nir Gadish
-submitted
+- with Christin Bibby, Melody Chan, and Nir Gadish
+- submitted
 
 4. *Topology of tropical moduli spaces of weighted curves in high genus*
-with Siddarth Kannan, Shiyue Li, and Stefano Serpente
-To appear in **Advances in Geometry**.
+- with Siddarth Kannan, Shiyue Li, and Stefano Serpente
+- To appear in **Advances in Geometry**.
 
 5. *The $S_n$-equivariant rational homology of the tropical moduli spacse $\Delta_{2,n}$*
-Experimental Mathematics (2021): 1-13.
+- Experimental Mathematics (2021): 1-13.
 
 6. *Puzzling and Apuzzling Graphs*
-with D. Gold, J. Henle, C. Huang, T. Lyve, T. Marin, J. Osorio, M. Puligandla, B. Weick, J. Xia, and J. Zhang
-AKCE International Journal of Graphs and Combinatorics, vol. 13, no. 1 (2016): 1-10.
+- with D. Gold, J. Henle, C. Huang, T. Lyve, T. Marin, J. Osorio, M. Puligandla, B. Weick, J. Xia, and J. Zhang
+- AKCE International Journal of Graphs and Combinatorics, vol. 13, no. 1 (2016): 1-10.
 
 ## Awards
 
@@ -86,21 +86,31 @@ Summer Research Fellowship, Smith College
 ## Teaching
 
 ### Brown University
-- `Spring 2021`
+`Spring 2021`
 Teaching assistant. Math 520: Linear Algebra.
-- `Fall 2020`
+
+`Fall 2020`
 Teaching assistant. Math 520: Linear Algebra.
-- `Fall 2019`
+
+`Fall 2019`
 Instructor. Math 100: Calculus II.
-- `Spring 2019`
+
+`Spring 2019`
 Teaching assistant. Math 90: Calculus I.
-- `Fall 2018`
+
+`Fall 2018`
 Teaching assistant. Math 100: Calculus II.
 
 ### Smith College
-- General math tutor. Pre-calculus to multivariable calculus and linear algebra. Fall 2016 - Spring 2017.
-- Instructor. One-week introduction to Java programming. January 2017.
-- General physics tutor. Introductory physics courses. Fall 2014 - Spring 2016.
+
+`Fall 2016 - Spring 2017`
+General math tutor. Pre-calculus to multivariable calculus and linear algebra.
+
+`January 2017`
+Instructor. One-week introduction to Java programming.
+
+`Fall 2014 - Spring 2016`
+General physics tutor. Introductory physics courses.
 
 ## Talks
 
