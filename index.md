@@ -41,10 +41,8 @@ __Budapest Semesters in Mathematics, Budapest, Hungary__
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+`xxxx`
+blah
 
 ## Publications
 
