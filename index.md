@@ -18,7 +18,7 @@ __Max-Planck-Institut für Mathematik in den Naturwissenschaften, Leipzig, Germa
 
 ## Research Interests
 
-Combinatorial algebraic geometry and topology, computational algebraic geometry, tropical geometry, combinatorics. One of my favorite things to study is the equvariant (co)homology of a combinatorially-defined space.
+Combinatorial algebraic geometry and topology, computational algebraic geometry, tropical geometry, combinatorics. One of my favorite things to study is the equvariant (co)homology of combinatorially-defined spaces.
 
 ## Education
 
