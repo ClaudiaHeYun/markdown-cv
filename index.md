@@ -6,9 +6,15 @@ title: Claudia He Yun's CV
 Mathematician
 
 <div id="webaddress">
-<a href="clyun@mis.mpg.de">clyun@mis.mpg.de</a>
+<a>clyun at mis dot mpg dot de</a>
 | <a href="http://claudiayun.com">My website</a>
 </div>
+
+## Contact Information
+F3 07, MPI MiS
+Inselstraße 22
+04103 Leipzig
+Germany
 
 ## Employment
 
@@ -41,14 +47,60 @@ __Budapest Semesters in Mathematics, Budapest, Hungary__
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+1. *Discrete Morse theory for symmetric Delta-complexes*
+Preprint.
+
+2. *Equivariant Hodge polynomials of heavy/light moduli spaces*
+with Siddarth Kannan and Stefano Serpente
+Submitted.
+
+3. *Homology representations of compactified configurations on graphs applied to $\mathcal{M}_{2,n}$*
+with Christin Bibby, Melody Chan, and Nir Gadish
+submitted
+
+4. *Topology of tropical moduli spaces of weighted curves in high genus*
+with Siddarth Kannan, Shiyue Li, and Stefano Serpente
+To appear in **Advances in Geometry**.
+
+5. *The $S_n$-equivariant rational homology of the tropical moduli spacse $\Delta_{2,n}$*
+Experimental Mathematics (2021): 1-13.
+
+6. *Puzzling and Apuzzling Graphs*
+with D. Gold, J. Henle, C. Huang, T. Lyve, T. Marin, J. Osorio, M. Puligandla, B. Weick, J. Xia, and J. Zhang
+AKCE International Journal of Graphs and Combinatorics, vol. 13, no. 1 (2016): 1-10.
 
 ## Awards
 
-`xxxx`
-blah
+`2017`
+Ann Kirsten Pokora Prize to a senior with a distinguished academic record in mathematics, Smith College
+
+`2017`
+Top 500: William Lowell Putnam Mathematical Competition
+
+`2015`
+Suzan Rose Benedict Prize to a Sophomore for Excellence in Mathematics, Smith College
+
+`2014-2016`
+Summer Research Fellowship, Smith College
 
 ## Teaching
+
+### Brown University
+- `Spring 2021`
+Teaching assistant. Math 520: Linear Algebra.
+- `Fall 2020`
+Teaching assistant. Math 520: Linear Algebra.
+- `Fall 2019`
+Instructor. Math 100: Calculus II.
+- `Spring 2019`
+Teaching assistant. Math 90: Calculus I.
+- `Fall 2018`
+Teaching assistant. Math 100: Calculus II.
+
+### Smith College
+- General math tutor. Pre-calculus to multivariable calculus and linear algebra. Fall 2016 - Spring 2017.
+- Instructor. One-week introduction to Java programming. January 2017.
+- General physics tutor. Introductory physics courses. Fall 2014 - Spring 2016.
 
 ## Talks
 
