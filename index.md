@@ -6,11 +6,11 @@ title: Claudia He Yun's CV
 Mathematician
 
 <div id="webaddress">
-<a>clyun at mis dot mpg dot de</a>
-| <a href="http://claudiayun.com">My website</a>
+<a href="http://claudiayun.com">My website</a>
 </div>
 
 ## Contact Information
+clyun at mis dot mpg dot de
 - F3 07, MPI MiS
 - Inselstraße 22
 - 04103 Leipzig
