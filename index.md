@@ -39,15 +39,24 @@ __Smith College, MA, USA__
 __Budapest Semesters in Mathematics, Budapest, Hungary__
 - GPA: 3.8
 
+## Publications
+
+<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+
 ## Awards
 
 `xxxx`
 blah
 
-## Publications
+## Teaching
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+## Talks
 
+## Outreach
+
+## Service
+
+## Skills
 
 <!-- ### Footer
 
