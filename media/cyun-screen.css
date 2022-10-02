@@ -87,7 +87,7 @@ p code {
 ul {
 	position: relative;
 	left: 25%;
-	width: 75%;
+	width: 50%;
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
 }
@@ -112,6 +112,11 @@ li ul {
 	width: 100%;
 	margin-top: 0.25em;
 }
+
+ul p {
+	left: 0;
+}
+
 
 h1,h2,h3,h4 {
 	font-weight: 400;
@@ -142,6 +147,7 @@ h2 {
 	text-align: right;
 	width: 20%;
 }
+
 
 h3 {
 	font-size: 1em;

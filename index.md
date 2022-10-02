@@ -15,149 +15,149 @@ Mathematician
 clyun at mis dot mpg dot de
 
 ### Mailing Address
-F3 07, MPI MiS
+- F3 07, MPI MiS
 - Inselstraße 22
 - 04103 Leipzig
 - Germany
 
 ## Employment
 
-`July 2022 - August 2023`
-__Max-Planck-Institut für Mathematik in den Naturwissenschaften, Leipzig, Germany__
+`Jul 2022 - Aug 2023`
+- __Max-Planck-Institut für Mathematik in den Naturwissenschaften, Leipzig, Germany__
 - Postdoc. Mentor: Michael Joswig.
 
 ## Research Interests
 
-Combinatorial algebraic geometry and topology, computational algebraic geometry, tropical geometry, combinatorics. One of my favorite things to study is the equvariant (co)homology of combinatorially-defined spaces.
+- Combinatorial algebraic geometry and topology, computational algebraic geometry, tropical geometry, combinatorics. One of my favorite things to study is the equvariant (co)homology of combinatorially-defined spaces.
 
 ## Education
 
-`September 2019 - May 2022`
-__Brown University, RI, USA__
+`Sep 2019 - May 2022`
+- __Brown University, RI, USA__
 - Ph.D. in Mathematics. Advisor: Melody Chan.
 
-`September 2017 - May 2019`
-__Brown University, RI, USA__
+`Sep 2017 - May 2019`
+- __Brown University, RI, USA__
 - M.Sc. in Mathematics. Advisor: Melody Chan.
 
-`September 2013 - May 2017`
-__Smith College, MA, USA__
+`Sep 2013 - May 2017`
+- __Smith College, MA, USA__
 - B.A. *magna cum laude* in Mathematics with minor in Physics. Phi Beta Kappa.
 - GPA: 3.96
 
-`September 2015 - December 2015`
-__Budapest Semesters in Mathematics, Budapest, Hungary__
+`Sep 2015 - Dec 2015`
+- __Budapest Semesters in Mathematics, Budapest, Hungary__
 - GPA: 3.8
 
 ## Publications
 
-*Discrete Morse theory for symmetric Delta-complexes*
+- Discrete Morse theory for symmetric Delta-complexes
 - Preprint.
 
-*Equivariant Hodge polynomials of heavy/light moduli spaces*
+- *Equivariant Hodge polynomials of heavy/light moduli spaces*
 - with Siddarth Kannan and Stefano Serpente
 - Submitted.
 
-*Homology representations of compactified configurations on graphs applied to $\mathcal{M}_{2,n}$*
+- *Homology representations of compactified configurations on graphs applied to $\mathcal{M}_{2,n}$*
 - with Christin Bibby, Melody Chan, and Nir Gadish
 - submitted
 
-*Topology of tropical moduli spaces of weighted curves in high genus*
+- *Topology of tropical moduli spaces of weighted curves in high genus*
 - with Siddarth Kannan, Shiyue Li, and Stefano Serpente
 - To appear in **Advances in Geometry**.
 
-*The $S_n$-equivariant rational homology of the tropical moduli spacse $\Delta_{2,n}$*
+- *The $S_n$-equivariant rational homology of the tropical moduli spacse $\Delta_{2,n}$*
 - Experimental Mathematics (2021): 1-13.
 
-*Puzzling and Apuzzling Graphs*
+- *Puzzling and Apuzzling Graphs*
 - with D. Gold, J. Henle, C. Huang, T. Lyve, T. Marin, J. Osorio, M. Puligandla, B. Weick, J. Xia, and J. Zhang
 - AKCE International Journal of Graphs and Combinatorics, vol. 13, no. 1 (2016): 1-10.
 
 ## Awards
 
 `2017`
-Ann Kirsten Pokora Prize to a senior with a distinguished academic record in mathematics, Smith College
+- Ann Kirsten Pokora Prize to a senior with a distinguished academic record in mathematics, Smith College
 
 `2017`
-Top 500: William Lowell Putnam Mathematical Competition
+- Top 500: William Lowell Putnam Mathematical Competition
 
 `2015`
-Suzan Rose Benedict Prize to a Sophomore for Excellence in Mathematics, Smith College
+- Suzan Rose Benedict Prize to a Sophomore for Excellence in Mathematics, Smith College
 
 `2014-2016`
-Summer Research Fellowship, Smith College
+- Summer Research Fellowship, Smith College
 
 ## Teaching
 
 ### Brown University
 `Spring 2021`
-Teaching assistant. Math 520: Linear Algebra.
+- Teaching assistant. Math 520: Linear Algebra.
 
 `Fall 2020`
-Teaching assistant. Math 520: Linear Algebra.
+- Teaching assistant. Math 520: Linear Algebra.
 
 `Fall 2019`
-Instructor. Math 100: Calculus II.
+- Instructor. Math 100: Calculus II.
 
 `Spring 2019`
-Teaching assistant. Math 90: Calculus I.
+- Teaching assistant. Math 90: Calculus I.
 
 `Fall 2018`
-Teaching assistant. Math 100: Calculus II.
+- Teaching assistant. Math 100: Calculus II.
 
 ### Smith College
 `Fall 2016 - Spring 2017`
-General math tutor. Pre-calculus to multivariable calculus and linear algebra.
+- General math tutor. Pre-calculus to multivariable calculus and linear algebra.
 
-`January 2017`
-Instructor. One-week introduction to Java programming.
+`Jan 2017`
+- Instructor. One-week introduction to Java programming.
 
 `Fall 2014 - Spring 2016`
-General physics tutor. Introductory physics courses.
+- General physics tutor. Introductory physics courses.
 
 ## Talks
 
-`September 2022`
-Discrete Morse theory for symmetric Delta-complexes
+`Sep 2022`
+- Discrete Morse theory for symmetric Delta-complexes
 - SFB TRR 195 Anuual Meeting, Blaubeuren, Germany
 
-`August 2022`
+`Aug 2022`
 Homology representations of compactified configurations on graphs
 - Nonlinear Algebrac Seminar, Leipzig, Germany
 
-`March 2022`
+`Mar 2022`
 Homology representations of compactified configurations on graphs
 - AMS special session, online
 
-`November 2021`
+`Nov 2021`
 Homology representations of compactified configurations on graphs
 - Tulane University
 
-`November 2021`
+`Nov 2021`
 Homology representations of compactified configurations on graphs
 - Algebra Seminar, Georgia Institute of Technology
 
-`November 2021`
+`Nov 2021`
 Homology representations of compactified configurations on graphs
 - Combinatorics Seminar, University of Michigan
 
-`October 2021`
+`Oct 2021`
 Homology representations of compactified configurations on graphs
 - Algebra and Algebraic Geometry Seminar, University of Washington 
 
-`October 2021`
+`Oct 2021`
 Homology representations of compactified configurations on graphs
 - Algebraic Geometry Northeastern Series (AGNES), online 
 
-`October 2021`
+`Oct 2021`
 Homology representations of compactified configurations on graphs
 - Graduate Online Combinatorics Colloquium, online 
 
-`July 2021`
+`Jul 2021`
 The $S_n$-equivariant rational homology of the tropical moduli spaces $\Delta_{2,n}$
 - Discrete Mathematics/Geometry seminar at TU Berlin, online
 
-`April 2021`
+`Apr 2021`
 MathzFeed: 5 things I learned in representation theory that are so incredible I almost didn't believe them
 - Graduate Student Seminar, Brown University 
 
@@ -238,7 +238,7 @@ Basis of Splines on the An Root Lattice
 - Williams REU conference, Williams College 
 
 `Jul 2016`
-Poster:vNumber of Positive Root in a Subspace of the $A_n$ lattice
+Poster: Number of Positive Root in a Subspace of the $A_n$ lattice
 - Summer Combo in Vermont, St Michael's College 
 
 `Apr 2016`
@@ -290,8 +290,7 @@ Puzzling and Apuzzling Graphs
 ## Skills
 
 ### Languages
-English: fluent in speaking, reading, and writing
-- Chinese (Native): fluent in speaking, reading, and writing
+Chinese (native), English (fluent)
 
 <!-- ### Footer
 
